@@ -48,6 +48,9 @@ To group Walmart customers into behavioral segments using **K-Means clustering**
 ## 📂 Dataset
 This dataset was provided as part of an academic assignment and is not publicly available due to confidentiality.
 
+> 📄 This project was completed as part of a class assignment in collaboration with Runa Muderrisoglu.
+
+
 ## ✅ Author  
 **Murtaza Gohari**  
 Business Analytics | R | Machine Learning Enthusiast  
