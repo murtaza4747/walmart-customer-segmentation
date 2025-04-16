@@ -45,6 +45,8 @@ To group Walmart customers into behavioral segments using **K-Means clustering**
 - `cluster_plots/` – Visualizations comparing k-values
 
 ---
+## 📂 Dataset
+This dataset was provided as part of an academic assignment and is not publicly available due to confidentiality.
 
 ## ✅ Author  
 **Murtaza Gohari**  
